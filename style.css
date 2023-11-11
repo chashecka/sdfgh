@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    opacity: 0.2;
+}
+
+.d {
+    color: rgb(255, 255, 255);
+    padding-left: 200px;
+    position: absolute;
+    border: 5px solid black;
+    right: 500px;
+    top: 350px;
+}
+
+.g {
+    color: rgb(255, 255, 255);
+    padding-left: 200px;
+    position: absolute;
+    border: 5px solid black;
+    right: 500px;
+    top: 200px
+}
+
+.s {
+    color: rgb(255, 255, 255);
+    padding-left: 200px;
+    position: absolute;
+    top:110px;
+    left: 200px;
+    border: 5px solid black;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    top:110px;
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeLvmPVRJ4qW3e7LYtcLV4lL5WTPwsXJFRQ&usqp=CAU);
+    opacity: 0.5;
+}
+
+img {
+    width: 250px;
+    border-radius: 20px;
+}
+
+.w {
+    width: 260px;
+    height: 165px;
+    border-radius: 20px;
+    position: absolute;
+    left: 700px;
+    top: 304px;
+}
+
+p {
+    color: blanchedalmond;
+}
+
+.h {
+    position: absolute;
+    left: 800px;
+    top: 475px;
+}
+
+.m {
+    position: absolute;
+    left: 70px;
+    top: 475px;
+}
+
+a{
+    color: white;
+}
+
+.f{
+    left: 400px;
+}
+
+.dfw{
+    position: absolute;
+    left: 200px;
+    top: 235px;
+}
+
+.df{
+    position: absolute;
+    left: 200px;
+    top: 455px;
+}
